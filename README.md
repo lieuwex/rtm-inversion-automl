@@ -4,11 +4,11 @@ This repository contains files used in my bachelors thesis [Evaluating AutoML
 methods on hybrid inversion of PROSAIL RTM on Landsat-7 data for AGB
 estimation.](https://liacs.leidenuniv.nl/~s2012820/bsc-thesis/thesis.pdf).
 
-In `files/` are the input data that is required to run the scripts.
-In `get-angles/` is the script that gathers the angles from the Google Cloud
-Engine.
-In `parallel-runner` is the code that was used to train and evaluate the models.
-In `notebooks/` are the notebooks that are used to generate the plots
+- In `files/` are the input data that is required to run the scripts.
+- In `get-angles/` is the script that gathers the angles from the Google Cloud
+  Engine.
+- In `parallel-runner` is the code that was used to train and evaluate the models.
+- In `notebooks/` are the notebooks that are used to generate the plots
 
 You can download the sqlite3 database with the results
 [directly](https://liacs.leidenuniv.nl/~s2012820/bsc-thesis/db.db.zst).
