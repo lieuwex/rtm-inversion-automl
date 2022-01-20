@@ -1,0 +1,5 @@
+ak_cross*
+ak_agb_cross*
+*.pickle
+__pycache__
+db.db

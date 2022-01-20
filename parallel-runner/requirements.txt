@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+auto-sklearn
+autokeras
+scikit-optimize
