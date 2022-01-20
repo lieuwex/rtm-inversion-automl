@@ -1,5 +1,4 @@
-# Evaluating AutoML methods on hybrid inversion of PROSAIL RTM on Landsat-7 data
-# for AGB estimation.
+# Evaluating AutoML methods on hybrid inversion of PROSAIL RTM on Landsat-7 data for AGB estimation
 
 This repository contains files used in my bachelors thesis [Evaluating AutoML
 methods on hybrid inversion of PROSAIL RTM on Landsat-7 data for AGB
